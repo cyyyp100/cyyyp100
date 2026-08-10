@@ -151,16 +151,6 @@ Football is the thing I'd study even if nobody paid me to.
 </div>
 
 ---
-
-## Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=cyyyp100&show_icons=true&hide_border=true&include_all_commits=true&hide=issues&card_width=420&title_color=2F81F7&icon_color=2F81F7" alt="GitHub stats" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyyyp100&layout=compact&hide_border=true&langs_count=6&card_width=330&title_color=2F81F7" alt="Top languages" height="170" />
-
-</div>
----
  
 ## How I operate
  
