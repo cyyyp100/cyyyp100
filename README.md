@@ -6,10 +6,12 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=21&duration=3200&pause=900&color=2F81F7&center=true&vCenter=true&width=620&height=40&lines=AI+%2F+Data+Science+Engineer;Applied+ML%2C+with+a+purpose;Health+%C2%B7+Geospatial+%C2%B7+Sport;Research+engineer+in+the+making" alt="AI / Data Science Engineer" />
 </a>
 
+<sub>AI &amp; Data Science · IMT Alès — Institut Mines-Télécom</sub>
+
 <br/>
 
 [![Email](https://img.shields.io/badge/Email-cyprienvial2909@gmail.com-2F81F7?style=flat-square&logo=gmail&logoColor=white)](mailto:cyprienvial2909@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cyprien-vial-226641263/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Cyprien_Vial-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cyprien-vial-226641263/)
 ![Status](https://img.shields.io/badge/Open_to-Research_%26_ML_roles-2EA043?style=flat-square)
 
 </div>
@@ -21,6 +23,8 @@
 I believe we're living through a shift as deep as electricity, and I'd rather be one of the people building it well than one of the people watching it happen. Optimism isn't naivety here — it's a working assumption: if this technology is going to reshape how we live, then the details of *how* it gets built matter enormously, and those details are decided by whoever shows up.
 
 So I show up. I'm drawn to the field, not the abstraction — to problems where a model has to meet a real constraint, a real user, a real consequence. Every project I take on has to answer one question first: **what is this actually for?**
+
+That preference isn't rhetorical. I've served on field assignments in demanding operational environments, where conditions change without warning, the plan is a starting point at best, and the outcome rests on the people next to you. It left me with a low tolerance for work that never leaves the notebook.
 
 I'm looking for a research engineering role — somewhere I can keep learning fast, because that's the part I like most.
 
@@ -49,9 +53,9 @@ Reading the ground from orbit. Large-scale, physically grounded, and directly ti
 <td width="33%" valign="top">
 
 ### Sport & performance
-Where my own obsession lives. Football, team sports, gym and combat — and the data underneath all of it.
+Where my own obsession lives. Currently: graph neural networks on 3D player tracking, hunting for momentum.
 
-`Football_DataWork`
+`Football analytics`
 
 </td>
 </tr>
@@ -61,23 +65,48 @@ Where my own obsession lives. Football, team sports, gym and combat — and the 
 
 ## Projects
 
-**Active**
+### Building right now
 
-| Project | What it is | Stack | Progress |
+<table>
+<tr><td width="50%" valign="top">
+
+#### [Meta-Capp](https://github.com/cyyyp100/Meta-Capp) ⭐
+
+**Learning, adapted to the person doing it.**
+
+Feed it a course, an article, a PDF — anything you need to actually absorb — and it builds a reading and revision path around how memory really works, using established findings from cognitive psychology rather than folk study advice. It also does RAG-based brainstorming grounded in everything you've already read, so your own corpus becomes something you can think *with*.
+
+For anyone who reads to learn. Which is most people, badly served.
+
+`HTML` `Python` `RAG` `LLM`
+`▰▰▰▰▰▰▰▱▱▱` in active development
+
+</td><td width="50%" valign="top">
+
+#### [Football analytics](https://github.com/cyyyp100/Football_DataWork)
+
+**Finding momentum in 3D tracking data.**
+
+I work from 3D player-movement data and train graph neural networks on it — few-shot, because match data at this granularity is scarce. The goal is a metric that captures *positive momentum at any instant of a match*: not possession or xG after the fact, but who is actually winning the game right now. Downstream, that feeds goal and result prediction.
+
+Football is the thing I'd study even if nobody paid me to.
+
+`Python` `PyTorch` `GNN` `few-shot`
+`▰▰▰▰▰▰▱▱▱▱` in active development — GNN work landing soon
+
+</td></tr>
+</table>
+
+### Research & experiments
+
+| Project | What it is | Stack | Status |
 |---|---|---|---|
-| **[Meta-Capp](https://github.com/cyyyp100/Meta-Capp)** ⭐ | <!-- À REMPLIR : une phrase, ce que ça fait et pour qui --> | `HTML` | `▰▰▰▰▰▰▰▱▱▱` 70% |
-| **[Domain_Shift_Study](https://github.com/cyyyp100/Domain_Shift_Study)** | Why a model that works here fails there — measuring distribution shift and holding accuracy through it | `Jupyter` `PyTorch` | `▰▰▰▰▰▰▱▱▱▱` 60% |
-
-**Research & experiments**
-
-| Project | What it is | Stack | Progress |
-|---|---|---|---|
-| [Nodulocc_Challenge](https://github.com/cyyyp100/Nodulocc_Challenge) | Pulmonary nodule detection on medical imaging — competition entry | `Python` | `▰▰▰▰▰▰▰▰▱▱` 80% |
-| [Satellite](https://github.com/cyyyp100/Satellite) | Remote sensing imagery — land classification from orbit | `Python` | `▰▰▰▰▰▰▰▱▱▱` 70% |
-| [Detection_accidents](https://github.com/cyyyp100/Detection_accidents) | Road accident detection and analysis | `Python` | `▰▰▰▰▰▱▱▱▱▱` 50% |
-| [NLP_emotions](https://github.com/cyyyp100/NLP_emotions) | Emotion classification from text | `Jupyter` | `▰▰▰▰▰▰▰▰▰▱` 90% |
-| [Football_DataWork](https://github.com/cyyyp100/Football_DataWork) | Match and player data — modelling what actually predicts outcomes | `Jupyter` `pandas` | `▰▰▰▰▰▰▱▱▱▱` 60% |
-| [roadef](https://github.com/cyyyp100/roadef) | ROADEF Challenge — combinatorial optimisation under hard operational constraints | `Python` | `▰▰▰▰▰▰▰▰▰▰` 100% |
+| [Domain_Shift_Study](https://github.com/cyyyp100/Domain_Shift_Study) | Why a model that works here fails there — measuring distribution shift and holding accuracy through it | `Jupyter` `PyTorch` | `▰▰▰▰▰▰▱▱▱▱` |
+| [Nodulocc_Challenge](https://github.com/cyyyp100/Nodulocc_Challenge) | Pulmonary nodule detection on medical imaging — competition entry | `Python` | `▰▰▰▰▰▰▰▰▱▱` |
+| [Satellite](https://github.com/cyyyp100/Satellite) | Remote sensing imagery — land classification from orbit | `Python` | `▰▰▰▰▰▰▰▱▱▱` |
+| [Detection_accidents](https://github.com/cyyyp100/Detection_accidents) | Road accident detection and analysis | `Python` | `▰▰▰▰▰▱▱▱▱▱` |
+| [NLP_emotions](https://github.com/cyyyp100/NLP_emotions) | Emotion classification from text | `Jupyter` | `▰▰▰▰▰▰▰▰▰▱` |
+| [roadef](https://github.com/cyyyp100/roadef) | ROADEF Challenge — combinatorial optimisation under hard operational constraints | `Python` | `▰▰▰▰▰▰▰▰▰▰` |
 
 **Shipped**
 
@@ -129,7 +158,7 @@ Where my own obsession lives. Football, team sports, gym and combat — and the 
 
 I train constantly, and across everything — football first, but also team sports generally, and gym, combat sports and racket sports depending on the week. It's not a footnote to the technical work: it's the same appetite. Sport is where you find out that theory and execution are different problems, that conditions change mid-game, and that the people around you decide the outcome as much as your own preparation.
 
-That's roughly how I approach engineering too. I like the field, I like working with people, and I don't find much satisfaction in a model that never leaves the notebook.
+That's roughly how I approach engineering too — which is also why the football work isn't a side quest. It's the same subject, examined from the other end.
 
 <div align="center">
 <br/>
