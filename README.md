@@ -9,7 +9,7 @@
 <br/>
 
 [![Email](https://img.shields.io/badge/Email-cyprienvial2909@gmail.com-2F81F7?style=flat-square&logo=gmail&logoColor=white)](mailto:cyprienvial2909@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/VOTRE-URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cyprien-vial-226641263/)
 ![Status](https://img.shields.io/badge/Open_to-Research_%26_ML_roles-2EA043?style=flat-square)
 
 </div>
