@@ -51,7 +51,7 @@ I'm looking for a research engineering role, somewhere I can keep learning fast,
 
 ### Where all my time goes
 
-#### [Meta-Capp](https://github.com/cyyyp100/Meta-Capp-OSS) ⭐
+#### [Meta-Capp](https://github.com/cyyyp100/meta-capp) ⭐
 
 **An AI reading companion built to make you think harder, not less.**
 
@@ -68,7 +68,7 @@ The bet behind it: most AI tools remove friction and leave you with the illusion
 
 | Project | What it is | Stack | Status |
 |---|---|---|---|
-| [Football analytics](https://github.com/cyyyp100/Football_DataWork) | Graph neural networks on 3D player tracking, few-shot, hunting for a metric that captures momentum at any instant of a match. Went a long way. Parked, not abandoned | `Python` `PyTorch` `GNN` | `▰▰▰▰▰▰▰▱▱▱` |
+| [Football analytics](https://github.com/cyyyp100/Football_Analytics) | Graph neural networks on 3D player tracking, few-shot, hunting for a metric that captures momentum at any instant of a match. Went a long way. Parked, not abandoned | `Python` `PyTorch` `GNN` | `▰▰▰▰▰▰▰▱▱▱` |
 | [Domain_Shift_Study](https://github.com/cyyyp100/Domain_Shift_Study) | Why a model that works here fails there: measuring distribution shift and holding accuracy through it | `Jupyter` `PyTorch` | `▰▰▰▰▰▰▱▱▱▱` |
 | [Nodulocc_Challenge](https://github.com/cyyyp100/Nodulocc_Challenge) | Pulmonary nodule detection on medical imaging, competition entry | `Python` | `▰▰▰▰▰▰▰▰▱▱` |
 | [Satellite](https://github.com/cyyyp100/Satellite) | Remote sensing imagery: land classification from orbit | `Python` | `▰▰▰▰▰▰▰▱▱▱` |
