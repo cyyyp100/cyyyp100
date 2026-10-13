@@ -13,13 +13,11 @@
 
 ## Where I stand
 
-I believe we're living through a shift as deep as electricity, and I'd rather be one of the people building it well than one of the people watching it happen. Optimism isn't naivety here. It's a working assumption: if this technology is going to reshape how we live, then the details of *how* it gets built matter enormously, and those details are decided by whoever shows up.
+Everything I've pursued has brought me closer to what I aspire to: excellence in AI. Not because AI is the technology everyone talks about, or because it might replace the work we do, but because **there is so much more to it than that**.
 
-So I show up. I'm drawn to the field, not the abstraction: to problems where a model has to meet a real constraint, a real user, a real consequence. Every project I take on has to answer one question first: **what is this actually for?**
+What fascinates me is the science itself: the mathematical depth behind learning systems, the ingenuity required to make them work, and the questions we have yet to answer. From medical imaging to scientific discovery, AI opens up research directions that were difficult to imagine just a few years ago. It is a field where mathematical theory meets engineering, where fundamental questions lead to practical breakthroughs, and where there is still so much to understand.
 
-That preference isn't rhetorical. I've served on field assignments in demanding operational environments, where conditions change without warning, the plan is a starting point at best, and the outcome rests on the people next to you. It left me with a low tolerance for work that never leaves the notebook.
-
-I'm looking for a research engineering role, somewhere I can keep learning fast, because that's the part I like most.
+Having explored AI through academic research, industry, and personal projects, I want to keep pushing that boundary between understanding how things work and making them work in the real world. I'm looking for a research engineering role where I can contribute to ambitious projects, deepen my understanding, and help build AI that is reliable, interpretable, and genuinely useful.
 
 <hr/>
 
@@ -104,8 +102,10 @@ The bet behind it: most AI tools remove friction and leave you with the illusion
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+<img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI/CD" />
 <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" />
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+<img src="https://img.shields.io/badge/Beta_Testing-6C47FF?style=for-the-badge&logo=testinglibrary&logoColor=white" alt="Beta Testing" />
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 <img src="https://img.shields.io/badge/W%26B-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black" alt="Weights and Biases" />
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
@@ -113,7 +113,7 @@ The bet behind it: most AI tools remove friction and leave you with the illusion
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=black" alt="Vercel" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
 </div>
 
 <hr/>
